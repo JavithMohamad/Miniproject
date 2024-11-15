@@ -32,7 +32,12 @@ The architecture includes data preprocessing, training using various classifiers
 
 #### Output1 -
 
+![WhatsApp Image 2024-11-14 at 23 12 35_2d662d72](https://github.com/user-attachments/assets/cb2f5dfa-0c37-4df1-9be1-58431b59add3)
+
 #### Output2 -
+
+![WhatsApp Image 2024-11-14 at 23 11 26_d6efd58c](https://github.com/user-attachments/assets/eee4d4cf-e311-4361-a590-a62bfbdaa09f)
+
 
 
 
