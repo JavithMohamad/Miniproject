@@ -24,6 +24,8 @@ The "Heart Disease Prediction using Machine Learning" project employs machine le
 
 ## System Architecture
 The architecture includes data preprocessing, training using various classifiers (such as Random Forest), and hyperparameter tuning with GridSearchCV to maximize accuracy.
+
+,
 ![Screenshot 2024-11-13 233814](https://github.com/user-attachments/assets/87c91d81-c0bb-42a5-916f-def5c7e9df48)
 
 
